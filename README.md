@@ -19,11 +19,11 @@
 使用您最喜欢的包管理工具即可进行安装：
 
 ```bash
-npm install wx-js-sdk-ts
+npm install wxjssdk4ts
 # 或
-yarn add wx-js-sdk-ts
+yarn add wxjssdk4ts
 # 或
-pnpm add wx-js-sdk-ts
+pnpm add wxjssdk4ts
 ```
 
 ## 🔨 使用示例
@@ -31,7 +31,7 @@ pnpm add wx-js-sdk-ts
 在你的应用中（如 Vue / React 组件，或纯 TS 脚本中）直接引入：
 
 ```typescript
-import wx from "wx-js-sdk-ts";
+import wx from "wxjssdk4ts";
 
 // 1. 注入权限验证配置 (这里如果填错了不存在的 jsApiList，TypeScript 会直接飘红提示)
 wx.config({
