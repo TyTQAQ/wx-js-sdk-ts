@@ -1,0 +1,21 @@
+{
+  "name": "wx-js-sdk-ts",
+  "version": "1.0.0",
+  "description": "WeChat JS-SDK with TypeScript support",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyTQAQ/wx-js-sdk-ts"
+  },
+  "keywords": [
+    "weixin",
+    "wechat",
+    "jssdk",
+    "wx",
+    "ts",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
