@@ -1,6 +1,6 @@
 {
   "name": "wxjssdk4ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WeChat JS-SDK with TypeScript support",
   "main": "index.js",
   "types": "index.d.ts",
